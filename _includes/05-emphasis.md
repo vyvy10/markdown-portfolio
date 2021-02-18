@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can **draw shapes using _different_ commands**, I learned how to **_add_ colors or _change_ colors**. I can **add links as well as pictures**.
