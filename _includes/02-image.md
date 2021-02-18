@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a puppy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdogtime.com%2Fpuppies%2F1130-puppy-behavior-basics-hsus&psig=AOvVaw3tuiHTQi2Z9zK1WL8yiqI-&ust=1613748243676000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCt4-ne8-4CFQAAAAAdAAAAABAD)
